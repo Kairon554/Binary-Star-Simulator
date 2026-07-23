@@ -40,7 +40,7 @@ This project visually demonstrates \*\*Kepler's Three Laws\*\*, \*\*orbital prec
 
 Below is an example of **Scenario 6: Perfect Circular Orbit**.
 
-![Perfect Circular Orbit](images/scenario6.png)
+![Perfect Circular Orbit](/scenario6.png)
 
 
 \##  Quick Start
