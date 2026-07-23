@@ -44,9 +44,11 @@ This project visually demonstrates \*\*Kepler's Three Laws\*\*, \*\*orbital prec
 
 \### 1. Install dependencies
 
-Python: 3.8 or higher
-Libraries:numpy,matplotlib
-Note:Scenario 4 and 5 may take a few seconds longer to render due to the orbit calculation
+Python: 3.8 or higher.
+
+Libraries:numpy,matplotlib.
+
+Note:Scenario 4 and 5 may take a few seconds longer to render due to the orbit calculation.
 
 
 
